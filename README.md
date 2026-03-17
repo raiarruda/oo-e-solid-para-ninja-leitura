@@ -30,18 +30,18 @@ Cada capítulo contém:
 
 | Capítulo | Tema | Status |
 |----------|------|--------|
-| [01](./docs/capitulo-01-introducao.md) | Orientação a Objetos, pra que te quero? | ⬜ |
-| [02](./docs/capitulo-02-coesao-srp.md) | A coesão e o tal do SRP | ⬜ |
-| [03](./docs/capitulo-03-acoplamento-dip.md) | Acoplamento e o tal do DIP | ⬜ |
-| [04](./docs/capitulo-04-ocp.md) | Classes abertas e o tal do OCP | ⬜ |
-| [05](./docs/capitulo-05-encapsulamento.md) | Encapsulamento e propagação de mudanças | ⬜ |
-| [06](./docs/capitulo-06-lsp.md) | Herança x composição e o tal do LSP | ⬜ |
-| [07](./docs/capitulo-07-isp.md) | Interfaces magras e o tal do ISP | ⬜ |
-| [08](./docs/capitulo-08-boas-praticas.md) | Consistência, objetinhos e objetões | ⬜ |
-| [09](./docs/capitulo-09-smells.md) | Maus cheiros de design | ⬜ |
-| [10](./docs/capitulo-10.md) | Boas práticas adicionais | ⬜ |
-| [11](./docs/capitulo-11-exemplo-pratico.md) | Exemplo prático: MetricMiner | ⬜ |
-| [12](./docs/capitulo-12-conclusao.md) | Conclusão | ⬜ |
+| [01](./Cap01/capitulo-01-introducao.md) | Orientação a Objetos, pra que te quero? | ⬜ |
+| [02](./Cap02/capitulo-02-coesao-srp.md) | A coesão e o tal do SRP | ⬜ |
+| [03](./Cap03/capitulo-03-acoplamento-dip.md) | Acoplamento e o tal do DIP | ⬜ |
+| [04](./Cap04/capitulo-04-ocp.md) | Classes abertas e o tal do OCP | ⬜ |
+| [05](./Cap05/capitulo-05-encapsulamento.md) | Encapsulamento e propagação de mudanças | ⬜ |
+| [06](./Cap06/capitulo-06-lsp.md) | Herança x composição e o tal do LSP | ⬜ |
+| [07](./Cap07/capitulo-07-isp.md) | Interfaces magras e o tal do ISP | ⬜ |
+| [08](./Cap08/capitulo-08-boas-praticas.md) | Consistência, objetinhos e objetões | ⬜ |
+| [09](./Ca09/capitulo-09-smells.md) | Maus cheiros de design | ⬜ |
+| [10](./Cap10/capitulo-10.md) | Boas práticas adicionais | ⬜ |
+| [11](./Cap11/capitulo-11-exemplo-pratico.md) | Exemplo prático: MetricMiner | ⬜ |
+| [12](./Cap12/capitulo-12-conclusao.md) | Conclusão | ⬜ |
 
 Legenda:
 - ⬜ Não iniciado
