@@ -30,8 +30,8 @@ Cada capítulo contém:
 
 | Capítulo | Tema | Status |
 |----------|------|--------|
-| [01](./Cap01/capitulo-01-introducao.md) | Orientação a Objetos, pra que te quero? | ⬜ |
-| [02](./Cap02/capitulo-02-coesao-srp.md) | A coesão e o tal do SRP | ⬜ |
+| [01](./Cap01/capitulo-01-introducao.md) | Orientação a Objetos, pra que te quero? | ✅ |
+| [02](./Cap02/capitulo-02-coesao-srp.md) | A coesão e o tal do SRP | 🟨 |
 | [03](./Cap03/capitulo-03-acoplamento-dip.md) | Acoplamento e o tal do DIP | ⬜ |
 | [04](./Cap04/capitulo-04-ocp.md) | Classes abertas e o tal do OCP | ⬜ |
 | [05](./Cap05/capitulo-05-encapsulamento.md) | Encapsulamento e propagação de mudanças | ⬜ |
